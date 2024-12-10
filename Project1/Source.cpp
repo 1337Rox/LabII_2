@@ -3,7 +3,7 @@
 #include <iomanip>
 // Первое изменение
 // useless comm
-// 1 more useless comm
+// 1 more useful comm
 // Второе изменение
 int main() {
     
