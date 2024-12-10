@@ -2,6 +2,7 @@
 #include <bitset>
 #include <iomanip>
 // Первое изменение
+// useless comm
 // Второе изменение
 int main() {
     
