@@ -2,6 +2,7 @@
 #include <bitset>
 #include <iomanip>
 // Первое изменение
+// Второе изменение
 int main() {
     
     unsigned int X;
