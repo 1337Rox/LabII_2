@@ -1,7 +1,7 @@
 ﻿#include <iostream>
 #include <bitset>
 #include <iomanip>
-
+// Первое изменение
 int main() {
     
     unsigned int X;
